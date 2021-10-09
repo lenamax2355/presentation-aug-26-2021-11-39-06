@@ -1,6 +1,6 @@
-# {{DECKDECKGO_TITLE}}
+# Presentation Aug 26 2021 11-39-06
 
-{{DECKDECKGO_DESCRIPTION}} 
+select * from users 
 
 ## Table of contents
 
@@ -11,15 +11,15 @@
 
 ## Slides
 
-🔗 [https://beta.deckdeckgo.io{{DECKDECKGO_BASE_HREF}}](https://beta.deckdeckgo.io{{DECKDECKGO_BASE_HREF}})
+🔗 [https://beta.deckdeckgo.io/lena/presentation-aug-26-2021-11-39-06/](https://beta.deckdeckgo.io/lena/presentation-aug-26-2021-11-39-06/)
 
 ## Usage
 
 💻 To get started locally with this presentation, clone this repo and install its dependencies.
 
 ```
-git clone {{DECKDECKGO_GITHUB_REPO_URL}}
-cd {{DECKDECKGO_GITHUB_REPO_NAME}}
+git clone https://github.com/lenamax2355/presentation-aug-26-2021-11-39-06
+cd presentation-aug-26-2021-11-39-06
 npm install
 ```
 
